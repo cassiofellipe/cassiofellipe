@@ -13,7 +13,9 @@ src="https://devicons.io/devicons/icons/n8n.svg" width="40" height="40"/>
 
 ### - Aperfeiçoando...
 
-<img src="https://img.icons8.com/color/40/null/java-coffee-cup-logo--v1.png"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" width="40" height="40" />
 
 ### Contatos:                            
